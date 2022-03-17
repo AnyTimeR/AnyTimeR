@@ -1,13 +1,14 @@
-### Olá! Eu sou o Alex Castro
-- Trabalho como Analista de Segurança da Informação
-- Estudando Java
+### Olá! Eu sou o AnyTimeR
+- 🔒 Trabalho como Analista de Segurança da Informação
+- 📚 Estudando Java
+- 📌 Pretendo trabalhar com desenvolvimento back-end
 
 ##
 
 <div align="center">
   <a href="https://github.com/itsAnyTimeR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAnyTimeR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTimeR&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAnyTimeR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTimeR&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +21,7 @@
   
 <div>
   <a href="https://www.https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </div>
 
 
