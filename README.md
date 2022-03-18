@@ -15,6 +15,7 @@
   <img align="center" alt="Any-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Any-Spring-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Any-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Any-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/929156637883772989/954223173493194782/picasion.com_999016e779cc445e4679a202d7466b55.gif">
 </div>
   
 ##
@@ -22,6 +23,7 @@
 <div>
   <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   
 </div>
 
