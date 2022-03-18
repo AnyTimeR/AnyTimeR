@@ -1,5 +1,4 @@
-## 
-<img align="center" alt="Any-Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
+## <img align="center" alt="Any-Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
 - 🔒 Analista de Segurança da Informação
 - 📚 Cursando Sistemas de Informação
 - 📚 Estudando Java através da criação de projetos
@@ -9,11 +8,12 @@
 
 <div align="center">
   <a href="https://github.com/itsAnyTimeR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAnyTimeR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTimeR&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=itsAnyTimeR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTimeR&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
+  <img align="left" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/929156637883772989/954223173493194782/picasion.com_999016e779cc445e4679a202d7466b55.gif">
   <img align="center" alt="Any-Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Any-Spring-Ts" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Any-Html" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -23,7 +23,7 @@
   
 ##
   
-<div>
+<div align="center">
   <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
