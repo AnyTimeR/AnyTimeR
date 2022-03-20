@@ -1,4 +1,4 @@
-## <img align="center" alt="Any-Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
+## <img align="center" alt="Any-Java" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
 - 🔒 Analista de Segurança da Informação
 - 📌 Cursando Sistemas de Informação
 - 📌 Estudando Java através da criação de projetos
@@ -13,12 +13,12 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="left" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/929156637883772989/954223173493194782/picasion.com_999016e779cc445e4679a202d7466b55.gif">
+  <img align="left" alt="Any-gif" height="100" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/929156637883772989/954223173493194782/picasion.com_999016e779cc445e4679a202d7466b55.gif">
   <img align="center" alt="Any-Java" height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Any-Spring-Ts" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Any-Html" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Any-Eclipse" height="32" width="32" src="https://cdn.discordapp.com/attachments/741417108625162332/954277727807094804/eclipse_94656.png">
-  <img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/929156637883772989/954223173493194782/picasion.com_999016e779cc445e4679a202d7466b55.gif">
+  <img align="right" alt="Any-gif" height="100" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/929156637883772989/954223173493194782/picasion.com_999016e779cc445e4679a202d7466b55.gif">
 </div>
   
 ##
