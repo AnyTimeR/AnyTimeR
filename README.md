@@ -1,4 +1,5 @@
-## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
+## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee, eu sou o AnyTimeR!
+- 🧑🏻 Alex Castro
 - 🔒 Analista de Segurança da Informação
 - 📌 Cursando Sistemas de Informação
 - 📌 Estudando Java através da criação de projetos
@@ -18,14 +19,14 @@
   <img align="center" alt="Any-Spring-Ts" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Any-Html" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Any-Eclipse" height="32" width="32" src="https://cdn.discordapp.com/attachments/741417108625162332/954277727807094804/eclipse_94656.png">
-  <img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/955730126329503794/picasion.com_592d6d2f8eb350ea196325224c219f01.gif">
+  <img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/955734188064133130/picasion.com_c26503b7d6c9227a99554baddc6fffd4.gif">
 </div>
   
 ##
   
 <div align="center">
-  <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img height="40" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img height="35" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   
 </div>
