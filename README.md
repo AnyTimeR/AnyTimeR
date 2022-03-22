@@ -1,4 +1,4 @@
-## <img align="center" alt="Any-Java" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
+## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee! Eu sou o AnyTimeR
 - 🔒 Analista de Segurança da Informação
 - 📌 Cursando Sistemas de Informação
 - 📌 Estudando Java através da criação de projetos
