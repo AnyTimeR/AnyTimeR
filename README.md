@@ -1,5 +1,4 @@
 ## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee, eu sou o AnyTimeR!
-- 🧑🏻 Alex Castro
 - 🔒 Analista de Segurança da Informação
 - 📌 Cursando Sistemas de Informação
 - 📌 Estudando Java através da criação de projetos
