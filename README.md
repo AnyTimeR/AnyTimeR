@@ -28,5 +28,6 @@
   <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-castro-1a7b0c8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+  
 ![Snake animation](https://github.com/itsAnyTimeR/itsAnyTimeR/blob/output/github-contribution-grid-snake.svg)
+
