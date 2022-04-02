@@ -2,7 +2,7 @@
 - 🔒 Analista de Segurança da Informação
 - 📌 Estudante de Sistemas de Informação
 - 📌 Aprendendo Java através da criação de projetos
-- 📌 Em horas vagas gosto de jogar com amigos e refrescar a mente
+- 📌 Em horas vagas gosto de jogar com amigos e/ou refrescar a mente com atividades físicas
 
 ##
 
