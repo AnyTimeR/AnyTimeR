@@ -1,8 +1,8 @@
 ## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee, eu sou o Alex Castro! <br> Aqui pode me chamar de AnyTimeR ou apenas Any (sim, é meu nickname nos jogos)
 - 🔒 Analista de Segurança da Informação
-- 📌 Cursando Sistemas de Informação
-- 📌 Estudando Java através da criação de projetos
-- 📌 Pretendo trabalhar com desenvolvimento back-end
+- 📌 Estudante de Sistemas de Informação
+- 📌 Aprendendo Java através da criação de projetos
+- 📌 Em horas vagas gosto de jogar com amigos e refrescar a mente
 
 ##
 
