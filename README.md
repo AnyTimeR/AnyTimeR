@@ -7,8 +7,6 @@
 - 📌 Estudante de Sistemas de Informação
 - 📌 Aprendendo Java através da criação de projetos
 - 📌 Em horas vagas gosto de jogar com amigos e/ou refrescar a mente com atividades físicas
-  
-##
 
 <div align="center">
   <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
@@ -20,14 +18,7 @@
 - MySQL
 - Blockchain
 
-##
-
-<div align="center" style="display: inline_block"><br>
-  <img align="left" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276722960060496/picasion.com_57785774782450973372f73e4aadccd2.gif">
-  <img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
-</div>
-
-<h2 align="center"> Estatísticas do meu perfil </h2>
+## Estatísticas do meu perfil
 <div align="center">
   <a href="https://github.com/itsAnyTimeR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAnyTimeR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -35,4 +26,8 @@
 </div>
 
 ![Snake animation](https://github.com/itsAnyTimeR/itsAnyTimeR/blob/output/github-contribution-grid-snake.svg)
+  
+## Título
+  Texto
+<img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
 
