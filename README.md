@@ -27,7 +27,6 @@
 
 ![Snake animation](https://github.com/itsAnyTimeR/itsAnyTimeR/blob/output/github-contribution-grid-snake.svg)
   
-## Título
-  Texto
-<img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
+<img align="left" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276722960060496/picasion.com_57785774782450973372f73e4aadccd2.gif">
+<img align="right" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
 
