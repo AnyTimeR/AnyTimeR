@@ -2,7 +2,7 @@
   <img align="center" alt="capaAnyTimeR" height="500" width="900" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
 </div>
 
-## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee, eu sou o Alex! <br> Aqui pode me chamar de AnyTimeR ou apenas Any (sim, é meu nickname nos jogos)
+## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee, eu sou o Alex! <br>
 - 🔒 Analista de Segurança da Informação
 - 📌 Estudante de Sistemas de Informação
 - 📌 Aprendendo Java através da criação de projetos
@@ -18,9 +18,6 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="left" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276722960060496/picasion.com_57785774782450973372f73e4aadccd2.gif">
-  <img align="center" alt="Any-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Any-Spring-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Any-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="right" alt="Any-gif" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
 </div>
   
