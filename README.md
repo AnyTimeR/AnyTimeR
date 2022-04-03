@@ -14,7 +14,10 @@
 </div>
 
 ## Tecnologias que estou estudando
-- Java
+* Java
+  * Orientação a Objetos
+  * Explorando APIs e bibliotecas Java
+  * Spring Boot
 - MySQL
 - Blockchain
 
