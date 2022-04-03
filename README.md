@@ -1,3 +1,7 @@
+<div align="center" style="display: inline_block">
+  <img align="center" alt="capaAnyTimeR" height="500" width="900" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
+</div>
+
 ## <img align="center" alt="Any-Java" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> Opaa eaee, eu sou o Alex! <br> Aqui pode me chamar de AnyTimeR ou apenas Any (sim, é meu nickname nos jogos)
 - 🔒 Analista de Segurança da Informação
 - 📌 Estudante de Sistemas de Informação
