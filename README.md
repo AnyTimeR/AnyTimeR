@@ -22,14 +22,13 @@
 - Blockchain
 
 ## Estatísticas do meu perfil
-<div align="center">
+<div>
   <a href="https://github.com/itsAnyTimeR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAnyTimeR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTimeR&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="right" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAnyTimeR&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  
 </div>
 
 ![Snake animation](https://github.com/itsAnyTimeR/itsAnyTimeR/blob/output/github-contribution-grid-snake.svg)
-  
-<img align="left" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276722960060496/picasion.com_57785774782450973372f73e4aadccd2.gif">
-<img align="right" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
-
+ 
