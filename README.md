@@ -18,8 +18,8 @@
   * Orientação a Objetos
   * Explorando APIs e bibliotecas Java
   * Spring Boot
-- MySQL
-- Blockchain
+* MySQL
+* Blockchain
 
 ## Estatísticas do meu perfil
 <div>
