@@ -17,8 +17,9 @@
 * Java
   * Orientação a Objetos
   * Explorando APIs e bibliotecas Java
-  * Spring Boot
-* MySQL
+* Banco de Dados
+  * MySQL
+  * SQL Server
 * Blockchain
 
 ## Estatísticas do meu perfil
