@@ -31,7 +31,7 @@
   <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 </div>
   
-## Estatísticas do meu perfil
+## Minhas estatísticas
 <div>
   <a href="https://github.com/AnyTimeR">
   <img align="right" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
