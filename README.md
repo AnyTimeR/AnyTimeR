@@ -1,5 +1,5 @@
 <div align="center" style="display: inline_block">
-  <img align="center" alt="capaAnyTimeR" height="500" width="900" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
+  <img align="center" alt="capaAnyTimeR" height="400" width="700" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
 </div>
 
 # Bem-vindo(a) ao meu perfil, eu sou o Alex!
