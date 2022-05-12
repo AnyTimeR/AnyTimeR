@@ -25,16 +25,16 @@
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"> <br><br>
-  <img align="center" alt="Any" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" href="https://www.google.com.br">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img align="center" alt="Any" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   
 </div>
 
 ## Outras habilidades
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img align="center" alt="Rafa-Js" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Rafa-Js" src="https://aleen42.github.io/badges/src/premiere.svg">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img align="center" alt="Any" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Any" src="https://aleen42.github.io/badges/src/premiere.svg">
   
 </div>
 
@@ -48,4 +48,3 @@
 </div>
 
 ![Snake animation](https://github.com/AnyTimeR/AnyTimeR/blob/output/github-contribution-grid-snake.svg)
- 
