@@ -1,20 +1,23 @@
-<div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="capaAnyTimeR" height="400" width="700" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
 </div>
 
-# Bem-vindo(a) ao meu perfil, eu sou o Alex!
-- 🔒 Analista de Segurança da Informação
-- 📌 Estudante de Sistemas de Informação
-- 📌 Aprendendo Java através da criação de projetos
-- 📌 Em horas vagas gosto de jogar com amigos e/ou refrescar a mente com atividades físicas
-
+<h1 align="center">Bem-vindo(a) ao meu perfil, eu sou o Alex!</h1>
+<div align="center">
+🔒 Analista de Segurança da Informação 🔒 <br>
+📌 Estudante de Sistemas de Informação 📌 <br>
+📌 Aprendendo Java através da criação de projetos 📌 <br>
+📌 Em horas vagas gosto de jogar com amigos e/ou refrescar a mente com atividades físicas 📌
+</div>
+<br>
+  
 <div align="center">
   <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/itsAnyTimeR/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Tecnologias e habilidades que estou estudando
-<div style="display: inline_block">
+<h2 align="center">Tecnologias e habilidades que estou estudando</h2>
+<div align="center" style="display: inline_block">
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -30,16 +33,19 @@
   
 </div>
 
-## Outras habilidades
-<div style="display: inline_block">
-  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<h2 align="center">Outras habilidades</h2>
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <br>
   <img align="center" alt="Any" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Any" src="https://aleen42.github.io/badges/src/premiere.svg">
   
 </div>
 
-  
-## Minhas estatísticas
+<h2 align="center">Minhas estatísticas</h2>
 <div>
   <a href="https://github.com/AnyTimeR">
   <img align="right" alt="Any-gif" height="200" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
@@ -48,3 +54,8 @@
 </div>
 
 ![Snake animation](https://github.com/AnyTimeR/AnyTimeR/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/itsAnyTimeR/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
