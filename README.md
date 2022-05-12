@@ -1,4 +1,4 @@
-<div align="center" style="display: inline_block">
+<div align="left" style="display: inline_block">
   <img align="center" alt="capaAnyTimeR" height="400" width="700" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
 </div>
 
