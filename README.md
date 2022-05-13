@@ -12,7 +12,9 @@
     <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/itsAnyTimeR/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  
+
+<br>
+
 ## Tecnologias e habilidades que estou estudando
 <div align="left" style="display: inline_block">
   <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -28,6 +30,8 @@
   <img align="center" alt="Any" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
+<br>
+
 ## Outras habilidades
 <div align="left" style="display: inline_block">
   <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
@@ -37,6 +41,8 @@
   <img align="center" alt="Any" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Any" src="https://aleen42.github.io/badges/src/premiere.svg">
 </div>
+
+<br>
 
 ## Minhas estatísticas
 <div>
