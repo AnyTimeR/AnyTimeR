@@ -3,7 +3,7 @@
 # Bem-vindo(a) ao meu perfil, eu sou o Alex!
 
    <div align="left" style="display: inline_block; vertical-align: top">
-      <img style="vertical-align: top" align="right" alt="capaAnyTimeR" height="300" width="500" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
+      <img style="vertical-align: top" align="right" alt="capaAnyTimeR" height="300" width="550" src="https://cdn.discordapp.com/attachments/661726579164184577/960264346179629206/capaGitHub2.png">
       🔒 Analista de Segurança da Informação<br>
       📌 Estudante de Sistemas de Informação<br>
       📌 Aprendendo Java através da criação de projetos<br> 
@@ -14,7 +14,6 @@
      </div>
   </div>
   
-<br>
 
 ## Tecnologias e habilidades que estou estudando
 <div align="left" style="display: inline_block">
