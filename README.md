@@ -17,17 +17,17 @@
 
 ## Tecnologias e habilidades que estou estudando
 <div align="left" style="display: inline_block">
-     <img align="center" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-     <img align="center" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-     <img align="center" alt="Any" height="32" width="32" src="https://cdn.discordapp.com/attachments/959714595575054378/974394131818352650/eclipse_94656.png">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
-     <img align="center" alt="Any" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.discordapp.com/attachments/959714595575054378/974394131818352650/eclipse_94656.png">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+     <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 <br>
@@ -46,8 +46,8 @@
 <div>
   <a href="https://github.com/AnyTimeR">
   <img align="right" alt="Any-gif" style="border-radius:50px"          src="https://cdn.discordapp.com/attachments/661726579164184577/956276251000197170/picasion.com_5fa6c6dfb8ba301d2698540cd69ce6c0.gif">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="500" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ![Snake animation](https://github.com/AnyTimeR/AnyTimeR/blob/output/github-contribution-grid-snake.svg)
