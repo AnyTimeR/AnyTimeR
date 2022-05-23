@@ -5,7 +5,7 @@
       📌 Java Backend Developer<br>
       📌 Cursando Sistemas de Informação<br>
       📌 Digital Innovation One<br>
-      📌 POO - Spring - API REST - Arquitetura de Sistemas<br> 
+      📌 POO - Spring - API REST - Desktop/Web<br> 
       <div align="left">
          <br>
          <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
