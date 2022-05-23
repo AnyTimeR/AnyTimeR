@@ -1,5 +1,3 @@
-
-
 # Bem-vindo(a) ao meu perfil, eu sou o Alex!
 
    <div align="left" style="display: inline_block; vertical-align: top">
@@ -47,7 +45,6 @@
   <a href="https://github.com/AnyTimeR">
   <img src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  
 </div>
 
 ![Snake animation](https://github.com/AnyTimeR/AnyTimeR/blob/output/github-contribution-grid-snake.svg)
