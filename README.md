@@ -29,7 +29,7 @@
      <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<br>
+<br><br>
 
 ## Outras habilidades
 <div align="left" style="display: inline_block">
