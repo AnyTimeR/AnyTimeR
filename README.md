@@ -4,8 +4,8 @@
          <br>
          <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
            <a href="https://www.linkedin.com/in/itsAnyTimeR/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-          <br><br><br><br><br><br><br><br><br>
        </div>
+       <hr>
 </div>
 
 ## Tecnologias e habilidades que estou estudando
@@ -24,14 +24,6 @@
 </div>
 
 <br><br>
-
-## Outras habilidades
-<div align="left" style="display: inline_block">
-  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img align="center" alt="Any" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
-</div>
 
 <br>
 
