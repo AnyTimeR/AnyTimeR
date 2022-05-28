@@ -24,12 +24,12 @@
       </div>
 <br>
 <hr>
+
 <h2 align="left">Minhas estatísticas</h2>
       <div align="left">
         <a href="https://github.com/AnyTimeR">
         <img src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=dracula"/>
-        <img src="https://cdn.discordapp.com/attachments/959714595575054378/979903048371535902/picasion.com_07cc776ca5f96325322414d37f84d5b1.gif">
       </div>
-
+      
 ![Snake animation](https://github.com/AnyTimeR/AnyTimeR/blob/output/github-contribution-grid-snake.svg)
