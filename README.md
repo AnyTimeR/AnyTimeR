@@ -27,6 +27,7 @@
 
 <h2 align="left">Minhas estatísticas</h2>
       <div align="left">
+        <img align="right" src="https://cdn.discordapp.com/attachments/959714595575054378/984214154934124624/viperJavaDraculaGif.gif"/>
         <a href="https://github.com/AnyTimeR">
         <img src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=dracula"/>
