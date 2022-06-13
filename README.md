@@ -36,7 +36,7 @@
 
 <h2 align="left">Minhas estatísticas</h2>
       ☑️ Linguagem de Programação em foco: JAVA<br>
-      ☑️ Último projeto realizado: <br><br>
+      ☑️ Último projeto realizado: projetoDSMovie<br><br>
       <div align="left">
         <img align="right" src="https://cdn.discordapp.com/attachments/959714595575054378/984214154934124624/viperJavaDraculaGif.gif"/>
         <a href="https://github.com/AnyTimeR">
