@@ -7,7 +7,6 @@
       ☑️ Sistemas de Informação 7/8<br>
       ☑️ Banco de dados SQL | NoSQL<br>
       ☑️ Trabalhando com Spring Boot<br>
-      ☑️ Desenvolvendo Clean Code<br>
       ☑️ Aplicações Desktop | Web<br>
       ☑️ Metodologia Ágil | Scrum<br>
       <br><br><br>
