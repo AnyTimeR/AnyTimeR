@@ -1,6 +1,6 @@
 <div align="left">
       <h1>Bem vindo ao meu perfil, eu sou o Alex!</h1>
-      <img align="right" alt="capaAnyTimeR" height="300" width="550" src="https://cdn.discordapp.com/attachments/959714595575054378/985783603566870618/capaGitHubProfissional.png">
+      <img align="right" alt="capaAnyTimeR" height="300" width="550" src="https://cdn.discordapp.com/attachments/959714595575054378/992194567363383327/capaGitHub.png">
       ☑️ Backend Developer<br>
       ☑️ 21 anos<br>
       ☑️ Técnico em Informática<br>
@@ -37,10 +37,9 @@
       ☑️ Linguagem de Programação em foco: JAVA<br>
       ☑️ Último projeto realizado: projetoDSMovie<br><br>
       <div align="left">
-        <img align="right" src="https://cdn.discordapp.com/attachments/959714595575054378/984214154934124624/viperJavaDraculaGif.gif"/>
         <a href="https://github.com/AnyTimeR">
-        <img src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=dracula"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&langs_count=7&theme=gotham"/>
       </div>
       
 ![Snake animation](https://github.com/AnyTimeR/AnyTimeR/blob/output/github-contribution-grid-snake.svg)
