@@ -1,7 +1,7 @@
 <div align="left">
       <h1>Bem vindo ao meu perfil, eu sou o Alex!</h1>
       <img align="right" alt="capaAnyTimeR" height="300" width="550" src="https://cdn.discordapp.com/attachments/959714595575054378/985783603566870618/capaGitHubProfissional.png">
-      ☑️ Java Backend Developer<br>
+      ☑️ Backend Developer<br>
       ☑️ 21 anos<br>
       ☑️ Técnico em Informática<br>
       ☑️ Sistemas de Informação 7/8<br>
