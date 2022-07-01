@@ -2,14 +2,13 @@
       <h1>Bem vindo ao meu perfil, eu sou o Alex!</h1>
       <img align="right" alt="capaAnyTimeR" height="300" width="550" src="https://cdn.discordapp.com/attachments/959714595575054378/992194567363383327/capaGitHub.png">
       ☑️ Backend Developer<br>
-      ☑️ 21 anos<br>
       ☑️ Técnico em Informática<br>
       ☑️ Sistemas de Informação 7/8<br>
       ☑️ Banco de dados SQL | NoSQL<br>
       ☑️ Trabalhando com Spring Boot<br>
       ☑️ Aplicações Desktop | Web<br>
       ☑️ Metodologia Ágil | Scrum<br>
-      <br><br><br><br>
+      <br><br><br><br><br>
          <a href="mailto:alexcastro.contato@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
            <a href="https://www.linkedin.com/in/itsAnyTimeR/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
        
