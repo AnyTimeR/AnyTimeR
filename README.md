@@ -3,7 +3,7 @@
       <img align="right" alt="capaAnyTimeR" height="300" width="550" src="https://cdn.discordapp.com/attachments/959714595575054378/992194567363383327/capaGitHub.png">
       ☑️ Analista de Segurança da Informação<br>
       ☑️ Técnico em Informática<br>
-      ☑️ Sistemas de Informação 7/8<br>
+      ☑️ Sistemas de Informação 8/8<br>
       ☑️ Banco de dados SQL / NoSQL<br>
       ☑️ Trabalhando com Spring Boot<br>
       ☑️ Aplicações Desktop / Web<br>
