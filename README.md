@@ -23,6 +23,7 @@
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.discordapp.com/attachments/959714595575054378/974394131818352650/eclipse_94656.png">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
