@@ -17,6 +17,7 @@
 
 <h2 align="left">Tecnologias e habilidades que estou estudando</h2>
       <div align="left" style="display: inline_block">
+            <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
             <img align="left" alt="Any" height="32" width="32" src="https://cdn.discordapp.com/attachments/959714595575054378/974394131818352650/eclipse_94656.png">
