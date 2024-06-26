@@ -1,7 +1,7 @@
 
 # Olá, eu sou AnyTimeR 👋
 
-[READM em construção...]
+[README em construção...]
 
 ## 🔭 Projetos Atuais
 - [Projeto 1](link): Breve descrição do projeto.
