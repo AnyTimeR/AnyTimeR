@@ -20,7 +20,7 @@
 
 ## 📫 Como me encontrar
 - Email: [alexcastro.contato@protonmail.com](mailto:alexcastro.contato@protonmail.com)
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/alex-seginfo/)
+- LinkedIn: [alex-seginfo](https://www.linkedin.com/in/alex-seginfo/)
 
 ## ⚡ Fatos Divertidos
 - Fato divertido 1
