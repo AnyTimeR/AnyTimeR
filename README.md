@@ -19,10 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## ✨ Meus Repositórios Destacados
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=seu-repositorio)](https://github.com/seu-usuario/seu-repositorio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=seu-repositorio)](https://github.com/seu-usuario/seu-repositorio)
-
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnytimerBR&show_icons=true&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnytimerBR&layout=compact&theme=dracula)
