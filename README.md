@@ -16,8 +16,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## 📫 Como me encontrar
-- Email: [alexcastro.contato@protonmail.com](mailto:alexcastro.contato@protonmail.com)
-- LinkedIn: [alex-seginfo](https://www.linkedin.com/in/alex-seginfo/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alexcastro.contato@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-seginfo)
+
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnytimerBR&show_icons=true&theme=dracula)
