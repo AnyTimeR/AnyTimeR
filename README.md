@@ -1,14 +1,14 @@
 
-# Olá, eu sou AnyTimeR 👋
+# Olá, eu sou AnyTimeR
 
 [README em construção...]
 
-## 🌱 Estou Aprendendo
+## Estou Aprendendo
 - TypeScript
 - JavaScript
 - HTML5/CSS3
 
-## 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 <div>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -19,6 +19,6 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=dracula)
