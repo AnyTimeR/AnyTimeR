@@ -19,10 +19,6 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
-## 📫 Como me encontrar
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alexcastro.contato@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-seginfo)
-
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnytimerBR&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnytimerBR&layout=compact&theme=dracula)
+![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=dracula)
