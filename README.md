@@ -13,6 +13,8 @@
   <img src="assets/icons8-css-50.png" />
   <img src="assets/icons8-git-50.png" />
   <img src="assets/icons8-github-50.png" />
+  <img src="assets/icons8-hack-50.png" />
+  <img src="assets/icons8-blockchain-50.png" />
 </div>
 
 ## Estatísticas do GitHub
