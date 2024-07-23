@@ -4,6 +4,7 @@
 - TypeScript
 - JavaScript
 - HTML5/CSS3
+- Cibersegurança Defensiva
 
 ## Ferramentas e Tecnologias
 <div>
