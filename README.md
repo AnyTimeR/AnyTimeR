@@ -1,4 +1,4 @@
-![Logo do Projeto](assets/image.png)
+![Logo do Projeto](assets/header.png)
 
 ## Estou Aprendendo
 - TypeScript
@@ -19,3 +19,7 @@
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=dracula)
+
+<br>
+
+![Logo do Projeto](assets/footer.png)
