@@ -1,7 +1,4 @@
-
-# Olá, eu sou AnyTimeR
-
-[README em construção...]
+![Logo do Projeto](assets/image.png)
 
 ## Estou Aprendendo
 - TypeScript
