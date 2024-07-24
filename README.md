@@ -19,8 +19,8 @@
 </div>
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=dracula)
+![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=radical)
 
 <br>
 
