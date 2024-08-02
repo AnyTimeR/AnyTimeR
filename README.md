@@ -8,6 +8,7 @@
 
 ## Ferramentas e Tecnologias
 <div>
+  <img src="assets/icons8-java-50.png" />
   <img src="assets/icons8-javascript-50.png" />
   <img src="assets/icons8-typescript-50.png" />
   <img src="assets/icons8-html-50.png" />
