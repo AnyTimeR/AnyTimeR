@@ -26,11 +26,6 @@
 <a href="https://github.com/AnyTimeR/AnyTimeR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=radical" />
 </a>
-<br><br>
-<a href="https://github.com/AnyTimeR/AnyTimeR">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnyTimeR&layout=compact&theme=radical" alt="AnyTimeR" />
-</a>
-
-<br><br>
+<br><br><br>
 
 ![Logo do Projeto](assets/footer.png)
