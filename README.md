@@ -1,7 +1,7 @@
 ![Logo do Projeto](assets/header.png)
 
 ## Estou Aprendendo
-- Java com Spring Boot, Rest API, Maven, CRUD
+- Java com Spring Boot, Spring Security, Maven, Rest API e CRUD
 - Cibersegurança Defensiva
 
 ## Ferramentas e Tecnologias
