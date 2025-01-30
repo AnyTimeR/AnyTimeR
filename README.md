@@ -1,14 +1,13 @@
 ![Logo do Projeto](assets/header.png)
 
 ## Estou Aprendendo
-- Java com Spring Boot, Spring Security, Maven, Rest API e CRUD
+- Desenvolvimento
 - Cibersegurança Defensiva
 
 ## Ferramentas e Tecnologias
 <div>
   <img src="assets/icons8-java-50.png" />
   <img src="assets/icons8-javascript-50.png" />
-  <img src="assets/icons8-typescript-50.png" />
   <img src="assets/icons8-html-50.png" />
   <img src="assets/icons8-css-50.png" />
   <img src="assets/icons8-postgresql-50.png" />
