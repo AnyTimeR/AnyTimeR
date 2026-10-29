@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Oi,%20eu%20sou%20AnyTimeR&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=38&desc=funciona%20na%20minha%20m%C3%A1quina&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1e,35:3d1a6e,70:c2185b,100:ff8a3d&height=180&section=header&text=Oi,%20eu%20sou%20AnyTimeR&fontColor=ffe9fb&fontSize=38&animation=fadeIn&fontAlignY=38&desc=funciona%20na%20minha%20m%C3%A1quina&descAlignY=58&descSize=16" />
 </p>
 
 Mexo com desenvolvimento de software, tenho um pé em cibersegurança e outro em blockchain. O terceiro pé é o do café, mas esse ninguém contou.
@@ -19,22 +19,17 @@ Aprendo quebrando coisa e depois descobrindo por que quebrou. Meu histórico do 
 - Tentando fazer projetos saírem da pasta "ideias" e chegarem na `main`
 - Procurando um bug que só acontece quando alguém está olhando
 
-## Coisas que aprendi do jeito difícil
-
-- "Só uma mudança pequena" nunca é.
-- Chave de API não vai no commit. Nunca. Nem "só dessa vez".
-- Se a senha é fácil de lembrar, o atacante também lembra.
-- `git push --force` é igual a dizer "segura minha cerveja".
-- Todo código temporário tem planos de morar comigo pra sempre.
-
 ## Meus números no GitHub
 
-<p align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnyTimeR&theme=tokyonight" /> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnyTimeR&theme=tokyonight" /> </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnyTimeR&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnyTimeR&theme=radical" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnyTimeR&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+  <img src="https://streak-stats.demolab.com/?user=AnyTimeR&background=0b0b1e&border=3d1a6e&ring=ff3bd4&fire=ff8a3d&currStreakNum=ffe9fb&sideNums=ffe9fb&currStreakLabel=ff3bd4&sideLabels=2fb5c9&dates=9aa0b4&locale=pt_BR" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a3d,30:c2185b,65:3d1a6e,100:0b0b1e&height=100&section=footer" />
 </p>
