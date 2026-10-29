@@ -19,17 +19,6 @@ Aprendo quebrando coisa e depois descobrindo por que quebrou. Meu histórico do 
 - Tentando fazer projetos saírem da pasta "ideias" e chegarem na `main`
 - Procurando um bug que só acontece quando alguém está olhando
 
-## Meus números no GitHub
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnyTimeR&theme=radical" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnyTimeR&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnyTimeR&background=0b0b1e&border=3d1a6e&ring=ff3bd4&fire=ff8a3d&currStreakNum=ffe9fb&sideNums=ffe9fb&currStreakLabel=ff3bd4&sideLabels=2fb5c9&dates=9aa0b4&locale=pt_BR" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a3d,30:c2185b,65:3d1a6e,100:0b0b1e&height=100&section=footer" />
 </p>
