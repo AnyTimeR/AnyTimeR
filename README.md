@@ -6,12 +6,6 @@ Mexo com desenvolvimento de software, tenho um pé em cibersegurança e outro em
 
 Aprendo quebrando coisa e depois descobrindo por que quebrou. Meu histórico do Git é basicamente um diário de arrependimentos.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="Programando às 3h da manhã" />
-  <br/>
-  <sub>Eu, tentando achar o bug às 3h da manhã</sub>
-</p>
-
 ## O que ando fazendo
 
 - Estudando como proteger sistemas (e entendendo como alguém conseguiria derrubar o meu)
