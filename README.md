@@ -30,12 +30,12 @@ Aprendo quebrando coisa e depois descobrindo por que quebrou. Meu histórico do 
 ## Meus números no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnyTimeR&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyTimeR&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnyTimeR&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 <p align="center">
